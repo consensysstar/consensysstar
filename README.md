@@ -1,49 +1,94 @@
-# 👋 Hi, I’m consensysstar
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-I’m a **Senior Fullstack Engineer** with a love for building **real-time, interactive web apps and multiplayer games**.
-Over the past few years I’ve worked across startups and ambitious projects, turning complex ideas into fast, scalable products.
-I lean **frontend** but enjoy owning the **full stack**—from elegant UIs to resilient backend systems.
+<img src="https://github.com/monkey531/assets/blob/main/274604631-59163c56-55ac-4813-b4aa-b57082e708e6.gif" align="middle" alt="Banner" width="100%"/>
 
----
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-### 🕹️ What I Do
+<div align="center"> 
+<p style="font-size: medium"><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/monkey531/count.svg" alt="profile vistor count"/><br><br>
+<a href="https://github.com/monkey531" target="_blank">
+  <img src="https://img.shields.io/github/followers/monkey531?label=Follow&style=social" alt="Follow me on GitHub" />
+</a>
+<br>
+<br>
+<a href="https://wakatime.com/">
+  <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Total Time Badge" />
+</a>
+<br>
+</div>
+<br>
+<div align="center">
 
-* Craft **beautiful, responsive interfaces** with **React**, **Next.js**, and **TypeScript**
-* Build **real-time experiences** using **WebSockets**, event-driven backends, and distributed systems
-* Bring apps to life with **animations** (Framer Motion, GSAP, Rive) that feel smooth and natural
-* Work with **Node.js**, **Kafka**, and **Mongo/Postgres** to power data-heavy, high-traffic services
-* Experiment with **blockchain tech** (Solana, Ethereum) to create on-chain games and dApps
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
----
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-### 🔧 Tech I Use (and love)
+<div align="center">
+  <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
+<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
+  <h2> 🔥 My Tech Stacks! </h2><br>
+<br>
 
-`React` · `Next.js` · `Node.js` · `TypeScript` · `Kafka` · `MongoDB` · `PostgreSQL` · `Rive` · `GSAP` · `WebSockets` · `Solana` · `Ethereum` · `Docker` · `Kubernetes` · `GraphQL` · `TailwindCSS`
 
----
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15)
 
-### 🌱 A Little About Me
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-I enjoy working on products where **speed meets creativity**—games, interactive platforms, anything that challenges what the web can do.
-I thrive in small, collaborative teams, where design and engineering come together to ship great things.
-Outside of code, you’ll probably find me **testing new games**, contributing to open-source, or chasing down a perfect flat white. ☕
+</div>
 
----
+<div align="center">
+<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
+<img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
+  <h2> 🏆 My Github Stats </h2><br>
 
-### 📫 Let’s Connect
 
-* 🌐 [Portfolio](https://github.com/consensysstar)
-* 🕹️ [GitHub](https://github.com/consensysstar)
+<p  style="animation: fadein 2s;">
+  <br>
 
----
+  <img src="https://github-profile-trophy.vercel.app/?username=monkey531&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
+</p>
+  <div>
+    <a href="https://github.com/monkey531">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=monkey531&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
+  <br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey531&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+    width="36%"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey531&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="36%"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey531&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+</picture>
 
-### ⚡ Fun Fact
+<br/>
+<p  style="animation: fadein 2s;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=monkey531&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
+</p>
+</div> 
 
-I once stayed up all night debugging a multiplayer game only to realize… it was a single missing **semicolon**.
-(Still worth it. Players logged in the next morning without a hitch.)
-
----
-
-> *Always learning. Always shipping.*
-
----
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
