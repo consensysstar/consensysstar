@@ -1,6 +1,6 @@
 # 👋 Hi, I’m consensysstar
 
-I’m a **Senior Fullstack Engineer** with a love for building **real-time, interactive web apps and multiplayer games**.
+I’m a **Senior Frontend Engineer** with a love for building **real-time, interactive web apps and multiplayer games**.
 Over the past few years I’ve worked across startups and ambitious projects, turning complex ideas into fast, scalable products.
 I lean **frontend** but enjoy owning the **full stack**—from elegant UIs to resilient backend systems.
 
@@ -11,8 +11,6 @@ I lean **frontend** but enjoy owning the **full stack**—from elegant UIs to re
 * Craft **beautiful, responsive interfaces** with **React**, **Next.js**, and **TypeScript**
 * Build **real-time experiences** using **WebSockets**, event-driven backends, and distributed systems
 * Bring apps to life with **animations** (Framer Motion, GSAP, Rive) that feel smooth and natural
-* Work with **Node.js**, **Kafka**, and **Mongo/Postgres** to power data-heavy, high-traffic services
-* Experiment with **blockchain tech** (Solana, Ethereum) to create on-chain games and dApps
 
 ---
 
